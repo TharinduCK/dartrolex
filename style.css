@@ -1,0 +1,57 @@
+.backgroundDiv {
+    width: 1000px;
+    height: 540px;
+    background-image: url("background.png");
+    margin: auto;
+}
+
+.characterDiv {
+    width: 101px;
+    height: 99px;
+    background-image: url("image/Robot.png");
+    background-size: cover;
+    margin-top: 345px;
+    position: absolute;
+}
+
+.bullet {
+    width: 45px;
+    height: 45px;
+    background-image: url("bullet.png");
+    background-size: cover;
+    margin-top: 410px;
+    margin-left: 1050px;
+    position: absolute;
+}
+
+.bullettwo {
+    width: 45px;
+    height: 45px;
+    background-image: url("bullet.png");
+    background-size: cover;
+    margin-top: 355px;
+    margin-left: 1050px;
+    position: absolute;
+}
+
+.maintext {
+    text-align: center;
+    color: brown;
+    font-family: "Cambria";
+}
+
+.subtext {
+    text-align: left;
+    color: orangered;
+    font-family: "Cambria";
+}
+
+.subtext2 {
+    text-align: left;
+    color: orangered;
+    font-family: "Cambria";
+}
+
+.bodytag {
+    background-color: blanchedalmond;
+}

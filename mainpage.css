@@ -1,0 +1,44 @@
+.mainbackground {
+    background-image: url(mainbackground.jpg);
+    height: 697px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 5%;
+}
+.body{
+    background-color: burlywood;
+}
+.play{
+    height: 60px;
+    width: 100px;
+    margin-left: 45%;
+    margin-top: 40%;
+    border: none;
+    border-radius: 15px;
+    outline:orangered;
+    background-color: palevioletred;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Cambria";
+    color: black;
+}
+.play:hover {
+    background-color: orangered;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Cambria";
+    color: white;
+}
+.maintext{
+    color: rgb(0, 217, 255);
+    margin-left: 33%;
+    margin-top: 9%;
+    font-weight: bold;
+    font-family: "Cambria";
+}
+.subtext{
+    color: rgb(252, 206, 0);
+    font-weight: bold;
+    font-family: "Cambria";
+}
